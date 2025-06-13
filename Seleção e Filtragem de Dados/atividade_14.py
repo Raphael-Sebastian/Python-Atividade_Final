@@ -10,3 +10,5 @@ print("\nCategoria Frutas")
 print(df_produtos[df_produtos["Categoria"] == "Fruta"])
 print("\nProdutos que são maiores que 150Kg ")
 print(df_produtos[df_produtos["Estoque_Kg"] > 150])
+
+
